@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983310622186",
+    "project_id": "flutter-firebase-notific-a2057",
+    "storage_bucket": "flutter-firebase-notific-a2057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983310622186:android:d7d62b0cfa727e7b43e693",
+        "android_client_info": {
+          "package_name": "com.nextgen.notificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMwYC-mEK2L0vRpCrl7_kTIKT8OrkcV60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
